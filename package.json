@@ -1,0 +1,17 @@
+{
+  "name": "shop-products-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.212.1",
+    "claudia-api-builder": "^3.0.2",
+    "uuid": "^3.2.1"
+  }
+}
